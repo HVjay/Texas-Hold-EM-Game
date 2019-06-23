@@ -1,3 +1,3 @@
 # Texas-Hold-EM-Game
 
-Replicates poker mechanics, drawing cards onto console and outputting winner hand
+Replicates Texas-Hold-EM poker mechanics. Displays each hand onto console and evaluates the winning player's hand.
